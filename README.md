@@ -22,7 +22,7 @@ This project implements and compares three association rule mining algorithms: B
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/association-rule-mining.git
+1. Clone the repository: git clone
 2. Install required packages: pip install pandas mlxtend
    
 ## Usage
